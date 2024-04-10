@@ -51,4 +51,4 @@ Stacked average model of above models
 - Submission
 
 ## Findings and results
-The most successful was the ensembling of the stacked regressor at 65% with XGBoost at 10% and LightGBM at 10%.
+The most successful was the ensembling of the stacked regressor at 65% with XGBoost at 10% and LightGBM at 10% achieving top 4% in the competition.
